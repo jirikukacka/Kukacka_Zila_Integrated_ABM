@@ -9,6 +9,7 @@ To download the content of the repository and move to the root directory, run:
 git clone git@github.com:jirikukacka/Zila_Kukacka_Moment_Selection.git
 cd Zila_Kukacka_Moment_Selection/
 ```
+Alternatively, for a convenient download of the data, click "Code" (green button) and "Download ZIP".
 
 ## Data
 
