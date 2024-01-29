@@ -1,6 +1,6 @@
 # Wealth, cost, and misperception: Empirical estimation of three interaction channels in a financial-macroeconomic agent-based model
 
-This repository contains the data for "Wealth, cost, and misperception: Empirical estimation of three interaction channels in a financial-macroeconomic agent-based model" by [Jiri Kukacka](mailto:jiri.kukacka@fsv.cuni.cz) and [Eric Zila](mailto:zila.eric@gmail.com).
+This repository contains the data for "Wealth, cost, and misperception: Empirical estimation of three interaction channels in a financial-macroeconomic agent-based model", [ssrn.com/abstract=4709540](https://ssrn.com/abstract=4709540), by [Jiri Kukacka](mailto:jiri.kukacka@fsv.cuni.cz) and [Eric Zila](mailto:zila.eric@gmail.com).
 
 ## Requirements
 
