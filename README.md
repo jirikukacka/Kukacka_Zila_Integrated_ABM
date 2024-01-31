@@ -6,8 +6,8 @@ This repository contains the data for "Wealth, cost, and misperception: Empirica
 
 To download the content of the repository and move to the root directory, run:
 ```
-git clone git@github.com:jirikukacka/Zila_Kukacka_Moment_Selection.git
-cd Zila_Kukacka_Moment_Selection/
+git clone git@github.com:jirikukacka/Kukacka_Zila_Integrated_ABM.git
+cd Kukacka_Zila_Integrated_ABM/
 ```
 Alternatively, for a convenient download of the data, click "Code" (green button) and "Download ZIP".
 
